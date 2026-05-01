@@ -5,6 +5,8 @@ This project is a deep learning-based web application that detects potato leaf d
 
 The application is deployed using **Gradio** and hosted on Hugging Face Spaces for real-time usage.
 
+data source 
+https://www.kaggle.com/datasets/rizwan123456789/potato-disease-leaf-datasetpld
 ---
 
 ## 🚀 Live Demo
